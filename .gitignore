@@ -1,0 +1,4 @@
+node_modules/
+.locks/
+test-results/
+playwright-report/

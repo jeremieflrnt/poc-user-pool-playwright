@@ -1,0 +1,12 @@
+{
+  "name": "poc-user-pool-playwright",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Boilerplate: pooling shared test users (phone numbers) across Playwright workers with filesystem locks",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
